@@ -13,13 +13,6 @@ A order now form section.
 A blogs section with addmin.
 A footer section.
 
-Setup/Installation Requirements
-To view the website,
-
-copy the link https://github.com/anu3004/Chinese-food-Application paste it to your browser and load it.
-Known Bugs
-There are no known bugs.
-
 Built With
 HTML
 CSS
