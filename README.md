@@ -16,7 +16,7 @@ A footer section.
 Setup/Installation Requirements
 To view the website,
 
-copy the link https://marynganga.github.io/Restaurant-Website-Template/ paste it to your browser and load it.
+copy the link https://github.com/anu3004/Chinese-food-Application paste it to your browser and load it.
 Known Bugs
 There are no known bugs.
 
